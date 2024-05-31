@@ -1,7 +1,7 @@
 # incognito-v124
 The incognito exploit is back on v124!
 
-# Instructions:
+## Instructions:
 1. Go to chrome://flags/#captive-portal-popup-window.
 2. If it doesn't exist, make sure to update chromeOS to the latest version.
 3. Enable it.
@@ -17,13 +17,13 @@ The incognito exploit is back on v124!
 13. Do CTRL+T - YOU'RE NOW IN INCOGNITO MODE!
 14. Set Name servers back to what it was before.
 
-# Notes:
+## Notes:
 -> Extensions can't block you!
 -> No search history!
 
-# Credits:
+## Credits:
 https://crbug.com/341245382
 https://github.com/s0urce-c0de for finding the post
 
-# Weird thing: (you can ignore this)
+## Weird thing: (you can ignore this)
 I did this exploit and I noticed when I checked my windows that the OLD sign in window exploit thing was there (v105). I had tried using its DNS to get a captive window but it didn't work since it was down. But apparently not. What was weird was that I hadn't even got a sign in pop up. I got one when I used the firefox one, but that opened a different captive tab. That tab wasn't there, so maybe the two DNS merged?
