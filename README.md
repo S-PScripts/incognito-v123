@@ -25,5 +25,5 @@ The incognito exploit is back on v124!
 https://crbug.com/341245382
 https://github.com/s0urce-c0de for finding the post
 
-# Weird thing:
+# Weird thing: (you can ignore this)
 I did this exploit and I noticed when I checked my windows that the OLD sign in window exploit thing was there (v105). I had tried using its DNS to get a captive window but it didn't work since it was down. But apparently not. What was weird was that I hadn't even got a sign in pop up. I got one when I used the firefox one, but that opened a different captive tab. That tab wasn't there, so maybe the two DNS merged?
