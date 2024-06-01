@@ -1,5 +1,5 @@
 # incognito-v124
-The incognito exploit is back on v124!
+The incognito exploit is back on v124! This was found by https://github.com/s0urce-c0de from https://crbug.com/341245382. s0urce-c0de wrote a writeup on it on 3kh0's repo but it didn't contain all the information so I (S-PScripts) created a new writeup.
 
 ## Instructions:
 1. Go to chrome://flags/#captive-portal-popup-window.
