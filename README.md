@@ -21,10 +21,31 @@ The incognito exploit is back on v124!
 -> Extensions can't block you! <br>
 -> No search history! <br>
 
+### You can use CAUB to allow changing DNS/Name servers if policies like:
+
+{
+   "NetworkConfigurations": [ {
+      "GUID": "{<redacted>}",
+      "Name": "<redacted>",
+      "ProxySettings": {
+         "Type": "Direct"
+      },
+      "Type": "WiFi",
+      "WiFi": {
+         "AutoConnect": true,
+         "HiddenSSID": false,
+         "Passphrase": "<redacted>",
+         "SSID": "<redacted>",
+         "Security": "WPA-PSK"
+      }
+   } ]
+}
+
+
 ## Credits:
-https://crbug.com/341245382 <br>
-https://github.com/s0urce-c0de for finding the post <br>
-https://github.com/S-PScripts (me) for finding a DNS that opens a captive portal window <br>
+https://crbug.com/341245382 for the original post <br>
+https://github.com/s0urce-c0de for finding the post, writing the original writeup on 3kh0's repo and adding CAUB to my writeup <br>
+https://github.com/S-PScripts (me) for finding a DNS that opens a captive portal window and writing this writeup <br>
 https://github.com/jee1mr/captive-portal because that's where I found the DNS <br>
 
 ## Weird thing: (you can ignore this)
