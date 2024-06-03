@@ -1,7 +1,7 @@
 # incognito-v123
 The incognito exploit is back on v123!
 
-# History
+# History:
 -> This was found by https://github.com/s0urce-c0de from https://crbug.com/341245382. <br> 
 -> https://github.com/s0urce-c0de wrote a writeup on it on 3kh0's repo but it didn't contain all the information. <br> 
 -> I (https://github.com/S-PScripts) created a new writeup. <br> 
