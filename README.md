@@ -12,9 +12,9 @@ The incognito exploit is back on v123!
 
 ## Instructions: Skip to "Instructions - chromeOS v126-v127" if you're on v126-v127
 1. Go to chrome://flags/#captive-portal-popup-window.
-2. If it doesn’t exist, make sure to be on chromeOS v123-125.
-   -> If you're on v126-v127, go to the "Instructions - chromeOS v126-v127" section.
-   -> If you're on v128+, you need to downgrade to v123-v127.
+2. If it doesn’t exist, make sure to be on chromeOS v123-125. <br> 
+   -> If you're on v126-v127, go to the "Instructions - chromeOS v126-v127" section. <br> 
+   -> If you're on v128+, you need to downgrade to v123-v127. <br> 
 3. Enable it.
 4. Restart.
 5. If the flag didn’t reset, you can continue. Else you cannot.
@@ -29,8 +29,8 @@ The incognito exploit is back on v123!
 14. Set Name servers back to what it was before.
 
 ## Instructions - chromeOS v126-v127
-1. Go to chrome://flags#temporary-unexpire-flags-m124 if you are on v126
-         chrome://flags/#temporary-unexpire-flags-m125 if you are on v127 (or v126)
+1. Go to chrome://flags#temporary-unexpire-flags-m124 if you are on v126 <br> 
+         chrome://flags/#temporary-unexpire-flags-m125 if you are on v127 (or v126) <br> 
 2. Enable it.
 3. Restart.
 4. Follow the rest of the original instructions.
