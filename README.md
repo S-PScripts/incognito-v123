@@ -29,7 +29,7 @@ The incognito exploit is back on v123!
 13. Do CTRL+T and you're now in Incognito mode!
 14. Set Name servers back to what it was before.
 
-## Instructions - chromeOS v126-v127
+## Instructions - chromeOS v126-v127:
 1. Go to chrome://flags#temporary-unexpire-flags-m124 if you are on v126 <br> 
          chrome://flags/#temporary-unexpire-flags-m125 if you are on v127 (or v126) <br> 
 2. Enable it.
