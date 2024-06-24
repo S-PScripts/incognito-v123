@@ -27,7 +27,7 @@ The incognito exploit is back on v123!
 11. Set the first box to detectportal.firefox.com OR captive.apple.com OR 150.136.163.0 (yes you can use the v105 dns)
 12. A sign in pop up should appear from your wifi. Click Sign in.
 13. Do CTRL+T and you're now in Incognito mode!
-14. Set Name servers back to what it was before.
+14. Set Name servers back to what it was before. You will also need to disconnect and reconnect to your wifi.
 
 ## Instructions - chromeOS v126-v127:
 1. Go to chrome://flags#temporary-unexpire-flags-m124 if you are on v126 <br> 
