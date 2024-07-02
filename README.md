@@ -37,6 +37,7 @@ The incognito exploit is back on v123!
 4. Follow the rest of the original instructions.
 
 # Notes:
+-> For me, the original method still worked with v126!
 -> Extensions can't block you! <br>
 -> No search history! <br>
 
