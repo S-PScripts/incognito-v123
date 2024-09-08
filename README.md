@@ -8,10 +8,11 @@ The incognito exploit is back on v123!
 
 # Requirements:
 -> Access to chrome://flags <br> 
--> Be on chromeOS v123 - v127 <br> 
+-> Be on chromeOS v123 - v129 (but you can still use 'incognito' on v130+) <br> 
 
 # Instructions:
-### IF YOU ARE ON chromeOS v128+, GO TO THE v128+ SECTION!
+### IF YOU ARE ON chromeOS v128 or v129, GO TO THE v128-v129 SECTION!
+### IF YOU ARE ON chromeOS v130+, GO TO THE v130+ SECTION!
 1. Go to chrome://flags/#captive-portal-popup-window.
 2. If it doesn’t exist, make sure to be on chromeOS v123-127. <br> 
    -> If you're on v128+, you need to downgrade to v123-v127. <br> 
@@ -31,16 +32,23 @@ Now, follow one of the two methods:
 7. A sign in pop up should appear from your wifi. Click Sign in.
 8. Do CTRL+T and you're now in Incognito mode! <br>
    -> You can also right click the top of the tab then click "Show as tab" to open Incognito. <br>
-9. Set Name servers back to what it was before. You will also need to disconnect and reconnect to your wifi.
+9. Set Name servers back to what it was before. You will also need to disconnect and reconnect to your wifi. <br>
 
 ## Option 2:
 1. If you have access to EE Wifi in the UK, connect to it.
 2. A sign in pop up should appear from your WiFi. Click Sign in.
 3. Do CTRL+T and you're now in Incognito mode! <br>
-4. Reconnect to your normal Wifi.
+4. Reconnect to your normal Wifi. <br>
  -> You can also right click the top of the tab then click "Show as tab" to open Incognito. <br>
 
-# Instructions (v128+):
+# Instructions (v128-v129):
+1. Go to chrome://flags#temporary-unexpire-flags-m124 if you are on v126
+chrome://flags/#temporary-unexpire-flags-m125 if you are on v127 (or v126)
+2. Enable it.
+3. Restart.
+4. Follow the rest of the original instructions.
+
+# Instructions (v130+):
 ### THIS WILL ONLY WORK IF YOU HAVE A CAPTIVE PORTAL THAT CAN GET TO GOOGLE. I AM USING EE WIFI IN THE UK.
 1. Connect to EE Wifi.
 2. A sign in pop up should appear from your Wifi. Click Sign in.
@@ -63,7 +71,6 @@ Now, follow one of the two methods:
 # Notes:
 -> Extensions can't block you! <br>
 -> No search history! <br>
--> TEMPORARILY EXPIRE FLAGS DOES NOT WORK! <br>
 
 ## You can use CAUB to allow changing DNS/Name servers if policies like:
 
