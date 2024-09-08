@@ -58,7 +58,7 @@ Now, follow one of the two methods:
 14. In Youtube's sidebar, click Privacy.
 15. Scroll to the bottom of Google's privacy page.
 16. Click the small Google text.
-17. Click Accept Cookies on Google's search page and you have successfully completed the instructions of this webview.
+17. Click Accept Cookies on Google's search page and you have successfully completed this exploit.
 
 # Notes:
 -> Extensions can't block you! <br>
