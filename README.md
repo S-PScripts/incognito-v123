@@ -1,5 +1,3 @@
-v128 is out 😭
-
 # incognito-v123
 The incognito exploit is back on v123!
 
@@ -13,10 +11,8 @@ The incognito exploit is back on v123!
 -> Be on chromeOS v123 - v127 <br> 
 
 # Instructions:
-## Skip to "Instructions - chromeOS v126-v127" if you're on v126-v127
 1. Go to chrome://flags/#captive-portal-popup-window.
-2. If it doesn’t exist, make sure to be on chromeOS v123-125. <br> 
-   -> If you're on v126-v127, go to the "Instructions - chromeOS v126-v127" section. <br> 
+2. If it doesn’t exist, make sure to be on chromeOS v123-127. <br> 
    -> If you're on v128+, you need to downgrade to v123-v127. <br> 
 3. Enable it.
 4. Restart.
@@ -32,17 +28,10 @@ The incognito exploit is back on v123!
    -> You can also right click the top of the tab then click "Show as tab" to open Incognito. <br>
 15. Set Name servers back to what it was before. You will also need to disconnect and reconnect to your wifi.
 
-## Instructions - chromeOS v126-v127:
-1. Go to chrome://flags#temporary-unexpire-flags-m124 if you are on v126 <br> 
-         chrome://flags/#temporary-unexpire-flags-m125 if you are on v127 (or v126) <br> 
-2. Enable it.
-3. Restart.
-4. Follow the rest of the original instructions.
-
 # Notes:
--> For me, the original method still worked with v127! <br>
 -> Extensions can't block you! <br>
 -> No search history! <br>
+-> TEMPORARILY EXPIRE FLAGS DOES NOT WORK! <br>
 
 ## You can use CAUB to allow changing DNS/Name servers if policies like:
 
