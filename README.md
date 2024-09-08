@@ -11,22 +11,54 @@ The incognito exploit is back on v123!
 -> Be on chromeOS v123 - v127 <br> 
 
 # Instructions:
+### IF YOU ARE ON chromeOS v128+, GO TO THE v128+ SECTION!
 1. Go to chrome://flags/#captive-portal-popup-window.
 2. If it doesn’t exist, make sure to be on chromeOS v123-127. <br> 
    -> If you're on v128+, you need to downgrade to v123-v127. <br> 
 3. Enable it.
 4. Restart.
 5. If the flag didn’t reset, you can continue. Else you cannot.
-6. Go to Settings.
-7. Click Wifi in the Network section.
-8. Click your wifi.
-9. Click Network.
-10. Set Name servers to Custom name servers.
-11. Set the first box to detectportal.firefox.com OR captive.apple.com OR 150.136.163.0 (yes you can use the v105 dns)
-12. A sign in pop up should appear from your wifi. Click Sign in.
-13. Do CTRL+T and you're now in Incognito mode! <br>
+
+Now, follow one of the two methods:
+
+## Option 1:
+1. Go to Settings.
+2. Click Wifi in the Network section.
+3. Click your wifi.
+4. Click Network.
+5. Set Name servers to Custom name servers.
+6. Set the first box to detectportal.firefox.com OR captive.apple.com OR 150.136.163.0 (yes you can use the v105 dns)
+7. A sign in pop up should appear from your wifi. Click Sign in.
+8. Do CTRL+T and you're now in Incognito mode! <br>
    -> You can also right click the top of the tab then click "Show as tab" to open Incognito. <br>
-15. Set Name servers back to what it was before. You will also need to disconnect and reconnect to your wifi.
+9. Set Name servers back to what it was before. You will also need to disconnect and reconnect to your wifi.
+
+## Option 2:
+1. If you have access to EE Wifi in the UK, connect to it.
+2. A sign in pop up should appear from your WiFi. Click Sign in.
+3. Do CTRL+T and you're now in Incognito mode! <br>
+4. Reconnect to your normal Wifi.
+ -> You can also right click the top of the tab then click "Show as tab" to open Incognito. <br>
+
+# Instructions (v128+):
+### THIS WILL ONLY WORK IF YOU HAVE A CAPTIVE PORTAL THAT CAN GET TO GOOGLE. I AM USING EE WIFI IN THE UK.
+1. Connect to EE Wifi.
+2. A sign in pop up should appear from your Wifi. Click Sign in.
+3. CTRL+T is pointless since it now opens a normal tab. You will need to follow the following instructions (and yes, this is the same as the ee-exploit).
+4. Change your Wifi back.
+5. Click the EE icon at the top left of the page. You will be at EE's hotspot home page.
+6. Scroll to the bottom. You will see that you can go to the EE STORE. Click Shop now.
+7. You will now be at the EE STORE home page. Accept all cookies.
+8. Scroll to the bottom and click Privacy policy - this is under the Information header at the right.
+9. Click "Please click here to view the BT Privacy Policy."
+10. You will now be at BT's privacy policy page. Accept all cookies.
+11. Click Contact BT at the bottom of the page - it's at the bottom left.
+12. At the bottom of this BT page, click the SMALL Youtube icon - it's at the bottom right.
+13. You are now on Youtube! You're very close Click Accept all.
+14. In Youtube's sidebar, click Privacy.
+15. Scroll to the bottom of Google's privacy page.
+16. Click the small Google text.
+17. Click Accept Cookies on Google's search page and you have successfully completed the instructions of this webview.
 
 # Notes:
 -> Extensions can't block you! <br>
