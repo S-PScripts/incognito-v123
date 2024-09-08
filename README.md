@@ -15,7 +15,7 @@ The incognito exploit is back on v123!
 ### IF YOU ARE ON chromeOS v130+, GO TO THE v130+ SECTION!
 1. Go to chrome://flags/#captive-portal-popup-window.
 2. If it doesn’t exist, make sure to be on chromeOS v123-127. <br> 
-   -> If you're on v128+, you need to downgrade to v123-v127. <br> 
+   -> If you're on v130+, you need to downgrade to v123-v127 or use the v130+ 'incognito' method. <br> 
 3. Enable it.
 4. Restart.
 5. If the flag didn’t reset, you can continue. Else you cannot.
@@ -46,7 +46,7 @@ Now, follow one of the two methods:
 chrome://flags/#temporary-unexpire-flags-m125 if you are on v127 (or v126)
 2. Enable it.
 3. Restart.
-4. Follow the rest of the original instructions.
+4. Follow the rest of the original instructions. If you updated from v127 to v128, don't forget to re-enable chrome://flags/#captive-portal-popup-window.
 
 # Instructions (v130+):
 ### THIS WILL ONLY WORK IF YOU HAVE A CAPTIVE PORTAL THAT CAN GET TO GOOGLE. I AM USING EE WIFI IN THE UK.
