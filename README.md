@@ -40,7 +40,7 @@ Now, follow one of the two methods:
 4. Reconnect to your normal Wifi. <br>
  -> You can also right click the top of the tab then click "Show as tab" to open Incognito. <br>
  
-# Instructions (v130+):
+# Instructions (v128+):
 ### THIS WILL ONLY WORK IF YOU HAVE A CAPTIVE PORTAL THAT CAN GET TO GOOGLE. I AM USING EE WIFI IN THE UK.
 1. Connect to EE Wifi.
 2. A sign in pop up should appear from your Wifi. Click Sign in.
@@ -65,6 +65,7 @@ Now, follow one of the two methods:
 # Notes:
 -> Extensions can't block you! <br>
 -> No search history! <br>
+-> EVEN IF YOU ARE ON v128-v129, TURNING ON THE UNEXPIRE FLAG WILL NOT WORK!!! <br>
 
 ## You can use CAUB to allow changing DNS/Name servers if policies like:
 
