@@ -11,13 +11,15 @@ The incognito exploit is back on v123!
 -> Be on chromeOS v123 - v127 (but you can still use 'incognito' on v128+) <br> 
 
 # Instructions:
+### IF YOU ARE ON chromeOS v126-v127, GO TO THE v126-v127 SECTION!
 ### IF YOU ARE ON chromeOS v128+, GO TO THE v128+ SECTION!
 1. Go to chrome://flags/#captive-portal-popup-window.
-2. If it doesn’t exist, make sure to be on chromeOS v123-127. <br> 
+2. If it doesn’t exist, make sure to be on chromeOS v123-127. <br>
+   -> If you're on v126-v127, go to the v126-v127 section.
    -> If you're on v128+, you need to downgrade to v123-v127 or use the v128+ 'incognito' method. <br> 
-3. Enable it.
-4. Restart.
-5. If the flag didn’t reset, you can continue. Else you cannot.
+4. Enable it.
+5. Restart.
+6. If the flag didn’t reset, you can continue. Else you cannot.
 
 Now, follow one of the two methods:
 
@@ -39,7 +41,14 @@ Now, follow one of the two methods:
 3. Do CTRL+T and you're now in Incognito mode! <br>
 4. Reconnect to your normal Wifi. <br>
  -> You can also right click the top of the tab then click "Show as tab" to open Incognito. <br>
- 
+
+# Instructions (v127-v128):
+1. Go to chrome://flags#temporary-unexpire-flags-m124 if you are on v126
+   chrome://flags/#temporary-unexpire-flags-m125 if you are on v127 (or v126)
+2. Enable it.
+3. Restart.
+4. Follow the rest of the original instructions.
+
 # Instructions (v128+):
 ### THIS WILL ONLY WORK IF YOU HAVE A CAPTIVE PORTAL THAT CAN GET TO GOOGLE. I AM USING EE WIFI IN THE UK.
 1. Connect to EE Wifi.
@@ -65,7 +74,6 @@ Now, follow one of the two methods:
 # Notes:
 -> Extensions can't block you! <br>
 -> No search history! <br>
--> EVEN IF YOU ARE ON v128-v129, TURNING ON THE UNEXPIRE FLAG WILL NOT WORK!!! <br>
 
 ## You can use CAUB to allow changing DNS/Name servers if policies like:
 
