@@ -42,11 +42,12 @@ Now, follow one of the two methods:
  -> You can also right click the top of the tab then click "Show as tab" to open Incognito. <br>
 
 # Instructions (v127-v128):
-1. Go to chrome://flags#temporary-unexpire-flags-m124 if you are on v126
-   chrome://flags/#temporary-unexpire-flags-m125 if you are on v127 (or v126)
-2. Enable it.
-3. Restart.
-4. Follow the rest of the original instructions.
+1. Go to:
+   -> chrome://flags#temporary-unexpire-flags-m124 if you are on v126 <br>
+   -> chrome://flags/#temporary-unexpire-flags-m125 if you are on v127 (or v126) <br>
+3. Enable it. <br>
+4. Restart.
+5. Follow the rest of the original instructions.
 
 # Instructions (v128+):
 Please go to https://s-pscripts.github.io/incognito-rises/ 
