@@ -11,7 +11,7 @@ The incognito exploit is back on v123!
 
 # Requirements:
 -> Access to chrome://flags <br> 
--> Be on chromeOS v123 - v127 (but you can still use 'incognito' on v128+) <br> 
+-> Be on chromeOS v123 - v127 (but you can still use 'incognito' on v128) <br> 
 
 # Instructions:
 ### IF YOU ARE ON chromeOS v126-v127, GO TO THE v126-v127 SECTION!
