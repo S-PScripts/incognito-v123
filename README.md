@@ -15,10 +15,10 @@ The incognito exploit is back on v123!
 
 # Instructions:
 ### IF YOU ARE ON chromeOS v126-v127, GO TO THE v126-v127 SECTION!
-### IF YOU ARE ON chromeOS v128+, GO TO THE v128 SECTION!
+### IF YOU ARE ON chromeOS v128, GO TO THE v128 SECTION!
 1. Go to chrome://flags/#captive-portal-popup-window. <br>
    -> If you're on v126-v127, go to the v126-v127 section. <br>
-   -> If you're on v128+, you need to downgrade to v123-v127 or use the v128+ 'incognito' method. <br> 
+   -> If you're on v128, you need to downgrade to v123-v127 or use the v128 'incognito' method. <br> 
 4. Enable it. <br>
 5. Restart.
 6. If the flag didn’t reset, you can continue. Else you cannot.
