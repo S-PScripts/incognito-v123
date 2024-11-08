@@ -6,6 +6,9 @@ The incognito exploit is back on v123!
 -> https://github.com/s0urce-c0de wrote a writeup on it on 3kh0's repo but it didn't contain all the information. <br> 
 -> I (https://github.com/S-PScripts) created a new writeup. <br> 
 
+-> Option 1 is now on Titanium Network's Oxide Docs! (without credit...) <br>
+-> I didn't find the incognito myself, but they could've credited Cohen... <br>
+
 # Requirements:
 -> Access to chrome://flags <br> 
 -> Be on chromeOS v123 - v127 (but you can still use 'incognito' on v128+) <br> 
@@ -49,8 +52,8 @@ Now, follow one of the two methods:
 4. Restart.
 5. Follow the rest of the original instructions.
 
-# Instructions (v128+):
-Please go to https://s-pscripts.github.io/incognito-rises/ 
+# Instructions (v128):
+Please go to https://s-pscripts.github.io/incognito-v128/ 
 
 # Notes:
 -> Extensions can't block you! <br>
@@ -78,7 +81,7 @@ Please go to https://s-pscripts.github.io/incognito-rises/
 
 
 # Credits:
-https://crbug.com/341245382 for the original post <br>
+https://crbug.com/341245382 (cohen) for the original post <br>
 https://github.com/s0urce-c0de for finding the post, writing the original writeup on 3kh0's repo and adding CAUB to my writeup <br>
 https://github.com/S-PScripts (me) for finding a DNS that opens a captive portal window and writing this writeup <br>
 https://github.com/Brandon421-ops for reminding me that the temporary unexpire flags exist. <br>
