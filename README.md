@@ -44,7 +44,7 @@ Now, follow one of the two methods:
 4. Reconnect to your normal Wifi. <br>
  -> You can also right click the top of the tab then click "Show as tab" to open Incognito. <br>
 
-# Instructions (v127-v128):
+# Instructions (v126-v127):
 1. Go to:
    -> chrome://flags#temporary-unexpire-flags-m124 if you are on v126 <br>
    -> chrome://flags/#temporary-unexpire-flags-m125 if you are on v127 (or v126) <br>
