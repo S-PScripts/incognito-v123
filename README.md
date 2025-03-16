@@ -31,7 +31,7 @@ Now, follow one of the two methods:
 3. Click your wifi.
 4. Click Network.
 5. Set Name servers to Custom name servers.
-6. Set the first box to detectportal.firefox.com OR captive.apple.com OR 150.136.163.0 (yes you can use the v105 dns)
+6. Set the first box to detectportal.firefox.com OR captive.apple.com OR 150.136.163.0 (yes, you can use the Incognito v105 DNS)
 7. A sign in pop up should appear from your wifi. Click Sign in.
 8. Do CTRL+T and you're now in Incognito mode! <br>
    -> You can also right click the top of the tab then click "Show as tab" to open Incognito. <br>
@@ -42,7 +42,7 @@ Now, follow one of the two methods:
 2. A sign in pop up should appear from your WiFi. Click Sign in.
 3. Do CTRL+T and you're now in Incognito mode! <br>
 4. Reconnect to your normal Wifi. <br>
- -> You can also right click the top of the tab then click "Show as tab" to open Incognito. <br>
+   -> You can also right click the top of the tab then click "Show as tab" to open Incognito. <br>
 
 # Instructions (v126-v127):
 1. Go to:
